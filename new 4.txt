@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ONL-Service-8-2 | Group 1 IPBA HTML</title>   
+        </head>
+        <a href="Group1.html">Go Back</a>
+        <body style="background-color:rgb(116, 192, 121);">
+        <h1 style="background-color:rgb(111, 145, 209); text-align: center; font-family: arial;">English IPBA</h1>
+        <h3 style="text-align: center;">Two-step Sentence Outline</h3>
+        <h3 style="text-align: center;">Chosen Solution/Topic:  Unveiling the Persistence of Gender Inequalities: Challenging Stereotypes in Evolving Societies ( Gender Inequality)
+        </h3>
+        <h3>outline</h3>
+        <h3>I.</h3>
+        <h3>Understanding Gender Inequality:</h3>
+        <h3>A.</h3>
+        <h3>Introduction 1.</h3>
+        <h3>Contextualize the persistence of gender inequality  despite social changes.</h3>
+        <h3>2.</h3>
+        <h3> Highlight the influence of stereotypes on perpetuating gender disparities.</h3>
+        <h3>B.</h3>
+        <h3>Highlight existing gender disparities</h3>
+        <h3> 1.</h3>
+        <h3>Identify disparities in various areas such as employment, education, health care and social roles</h3>
+        <h3>2.</h3>
+        <h3>Explore the systemic challenges and biases that contribute to these inequities.</h3>
+        <h3> II.</h3>
+        <h3>Addressing gender inequality through awareness and action: A.
+            Global Awareness Initiative 1.
+            Explain the multifaceted nature of awareness beyond recognition.
+           </h3>
+        <h3> 2.</h3>
+        <h3>Promote education, dialogue and action to promote a more just and inclusive society.</h3>
+        <h3>B.</h3>
+        <h3>The role of awareness raising in promoting change</h3>
+        <h3> 1. Encourage open discussion to foster empathy and mutual understanding.</h3>
+        <h3> 2. Equip individuals with the skills and knowledge to combat discriminatory practices and advocate for equal rights</h3>
+        <h3>The proposed solution, “Unraveling the Persistence of Gender Inequality: Challenging Patterns in Changing Societies,” comes from a comprehensive understanding of the  nature and the depth of gender disparity despite social progress.
+            This highlights the far-reaching influence of stereotypes in perpetuating these inequalities in many different areas.
+           </h3>
+           <h3>This solution focuses on raising awareness through education, dialogue and action, with the aim of eliminating bias and empowering individuals to drive meaningful social change towards a more equitable and inclusive future.
+            The choice for this solution lies in a comprehensive approach that emphasizes the importance of understanding, empathy and empowerment to fundamentally address gender inequality.
+           </h3>
+           <h1 style="background-color:rgb(111, 145, 209); text-align: center; font-family: arial;">Filipino Ipba</h1>
+        <h3 style="text-align: center;">sanaysay</h3>
+        <h3>Mahalagang tanong:</h3>
+        <h3>Balangkas</h3>
+        <h3>Totoo na ang pagtaas ng kaalaman at kamalayan sa pagkakapantay-pantay ng kasarian ay isang mahalagang hakbang para sa lipunan tungo sa tunay na katarungan at pagkakapantay-pantay.
+            Sa bawat yugto ng ating kasaysayan, patuloy na nagpapakita ang gap ng kasarian sa maraming iba't ibang aspeto ng buhay: sa trabaho, sa tahanan at sa mga pampublikong gawain.
+            Ngunit kahit na may mga pagbabago sa ekonomiya at panlipunan, hindi maikakaila na umiiral pa rin ang agwat ng kasarian.
+            </h3>
+            <h3>Sa gitna ng lahat ng ito, ang mga gawi ng kasarian na tinatanggap ng lipunan ay malalim na hinahamon.
+                Higit pa rito, naging bahagi na ito ng pang-araw-araw na buhay ng mga tao.
+                Ang bawat pakikipag-ugnayan ng tao, bawat transaksyon, at bawat bagong aspeto ng buhay ay sumasalamin sa mga gawi ng pag-iisip tungkol sa kasarian.
+                </h3>
+                <h3>Ito ang dahilan kung bakit ang mga lumang ideya tungkol sa kalalakihan at kababaihan ay patuloy na inilalapat sa maraming iba't ibang aspeto ng buhay, kabilang ang mga bagong panlipunang gawain at sitwasyon.</h3>
+                <h3>Malinaw na sa kabila ng mga aksyon na ginawa upang labanan ang pang-aapi at hindi pagkakapantay-pantay, ang sitwasyon ay hindi ganap na nagbago.
+                    Bakit tila mahirap isara ang agwat ng kasarian, lalo na sa mataas na industriyalisadong maunlad na bansa?
+                    </h3>
+                    <h3>Ang solusyon na "Pag-unawa at pagkilos laban sa hindi pagkakapantay-pantay ng kasarian: Paglaban sa pagtatangi sa isang nagbabagong lipunan" ay nagmumula sa isang komprehensibong pag-unawa kung paano patuloy na nananaig ang hindi pagkakapantay-pantay anuman ang panlipunang pag-unlad.
+                    </h3>
+                    <h3>Itinatampok nito ang malawakang impluwensya ng mga stereotype sa higit pang pagbabawas ng hindi pagkakapantay-pantay sa iba't ibang aspeto ng buhay.
+                        Sa pamamagitan ng pagpapalaganap ng kaalaman, edukasyon at pagkilos, layunin nitong wakasan ang diskriminasyon at bigyan ng kapangyarihan ang bawat indibidwal na magmaneho ng makabuluhang pagbabago sa lipunan tungo sa isang mas pantay at napapabilang na kinabukasan.
+                        </h3>
+                        <h3>Ang solusyon na ito ay pinili dahil sa pagbibigay-diin nito sa isang holistic na diskarte, na nagha-highlight sa kahalagahan ng pag-unawa sa isa't isa, pag-unawa at pagsulong upang labanan at matugunan ang mga ugat na sanhi ng hindi pagkakapantay-pantay na kasarian.
+                        </h3>
+                        <h3 style="font-family: 'Courier New', Courier, monospace;">Pamagat: “Pag-unawa sa hindi pagkakapantay-pantay ng kasarian at pagpapataas ng kamalayan”
+                        </h3>
+                        <h3 style="font-family: 'Courier New', Courier, monospace;">Uri ng Pagpapalawak ng Ideya: </h3>
+                        <h3>Masasabing emosyonal ang uri ng pagpapalawak ng kaisipan sa sanaysay na ito.
+                            Naipapakita ito sa paraan ng pagtugon sa isyu ng hindi pagkakapantay-pantay ng kasarian, na tila personal at nauugnay sa damdamin ng manunulat
+                           </h3>
+                           <h3> Pansinin ang paggamit ng mga salitang "deeply contested," "milestone," "distinction," at "inclusive future," na nagpapahiwatig ng tunay na damdamin at pagnanais para sa panlipunang pagbabago.
+                        </h3>
+                        <h3> Ang panawagan na paunlarin ang kamalayan at pag-unawa ay binibigyang-diin ang pangangailangan para sa  mas malalim na kaalaman at hindi basta basta pagtanggap o  pagkilala sa mga problema.
+                        </h3>
+                        <h3>Magkaroon ng pagnanais na magbigay ng inspirasyon at pag-asa sa pamamagitan ng pagtataguyod ng pagbabago sa lipunan.
+                        </h3>
+                        <h3>Ipinakikita nito ang kahalagahan ng pag-unawa at pagtanggap sa isa't isa, na higit pa sa  pagtanggap sa mga katotohanan ngunit naglalaman ng pangarap ng isang mas magandang kinabukasan.
+                        </h3>
+                        <h1 style="background-color:rgb(111, 145, 209); text-align: center; font-family: arial;">info's</h1>
+                        <h3>Sanggunian:(Sanggunian: European Union, 2023, “Pag-unawa sa hindi pagkakapantay-pantay ng kasarian at pagpapataas ng kamalayan”, https: //europa.eu/)</h3>
+                        <h3>---> link https://eige.europa.eu/gender-mainstreaming/tools-methods/gender-awareness-raising </h3>
+                        <a href="Group1.html">Go back</a>
+                        <a href="new 2.txt">Codes we use</a>
+                        <h1 style="background-color:rgb(111, 145, 209); text-align: center; font-family: arial;">For more Knowledege</h1>
+                        <h1>copy this link and paste it in ur keyboard~</h1>
+                        <h3>https://docs.google.com/document/d/1oxJhOZFoOk5zbzYC-OUiO4PTWTWalwxr7wDmpMQ5l24/edit?hl=en&forcehl=1</h3>
+
+                        
+         </body>
+</html>
